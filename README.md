@@ -2,7 +2,7 @@
 
 ---
 
-## ⭐ Project Overview
+## 📊 Project Overview
 An interactive **Power BI dashboard** analyzing **customer demographics, ordering patterns, and behavioral insights** for online food services. This analysis helps restaurants and delivery platforms understand their customer base and optimize business strategies.  
 
 - **Dataset Source:** Kaggle  
